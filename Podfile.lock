@@ -1,0 +1,40 @@
+PODS:
+  - AgoraRtcEngine_iOS (4.0.0-rc.1):
+    - AgoraRtcEngine_iOS/AINS (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/AudioBeauty (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/ClearVision (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/ContentInspect (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/PVC (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/ReplayKit (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/RtcBasic (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/SpatialAudio (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/SuperResolution (= 4.0.0-rc.1)
+    - AgoraRtcEngine_iOS/VirtualBackground (= 4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/AINS (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/AudioBeauty (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/ClearVision (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/ContentInspect (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/PVC (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/ReplayKit (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/RtcBasic (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/SpatialAudio (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/SuperResolution (4.0.0-rc.1)
+  - AgoraRtcEngine_iOS/VirtualBackground (4.0.0-rc.1)
+  - HyphenateChat (3.8.6.3)
+
+DEPENDENCIES:
+  - AgoraRtcEngine_iOS (= 4.0.0-rc.1)
+  - HyphenateChat
+
+SPEC REPOS:
+  trunk:
+    - AgoraRtcEngine_iOS
+    - HyphenateChat
+
+SPEC CHECKSUMS:
+  AgoraRtcEngine_iOS: 1b78af79120066c230cf9281d8587813ce6a8323
+  HyphenateChat: 9bf9c696f8c9a792e6827363850562e3d3f23f03
+
+PODFILE CHECKSUM: 6cc9089b1560a196d43cd3f84d6893804bedbdd4
+
+COCOAPODS: 1.11.3
